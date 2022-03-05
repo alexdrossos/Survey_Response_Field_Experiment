@@ -1,8 +1,7 @@
-# W241 Final Project
+# Motivating Survey Responses Through Incentives: A Field Experiment 
+Alexandra Drossos, Anand Patel, Madeline Whitlow, Spencer Weston, Carlos Moreno
 
-# Assignment Prompt
-
-The assignment prompt is in `./assignment.Rmd` and the linked `./assignment.html` file. 
+Our group conducted a field experiment where we tested whether survey response rate was affected by monetary incentive within the Berkeley MIDS community. We then conducted analysis of these results that are documented in our final report, W241_Final_Presentation_Paper.pdf
 
 # Project Organization
 
@@ -13,15 +12,7 @@ The assignment prompt is in `./assignment.Rmd` and the linked `./assignment.html
     │   ├── interim        <- Intermediate data that has been transformed.
     │   └── processed      <- The final, canonical data sets for modeling.
     |
-    ├── notebooks          <- .Rmd notebooks. 
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │
-    └── src                <- Source code for use in this project.
-        │
-        └── data           <- Scripts to download or generate data
+    ├── notebooks          <- .Rmd notebooks where we conducted analysis 
+    ├── W241_Final_Presentation_Paper.pdf
 
-
-Repository structured based on [cookiecutter data science](https://drivendata.github.io/cookiecutter-data-science).
+Repository structured based on [cookiecutter data science] (https://drivendata.github.io/cookiecutter-data-science).
